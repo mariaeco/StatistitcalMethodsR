@@ -11,22 +11,24 @@ library(gridExtra)#gridarrange boxplot
 
 
 
-df = read.table("clipboard", header = T)
+df = read.table("data_peryphyton.txt", header = T)
 head(df)
 
 #defining factors
-df$peixe = as.factor(df$peixe)
-df$nutriente = as.factor(df$nutriente)
-df$tempo = as.factor(df$tempo)
+df$snails = as.factor(df$snails)
+df$nutrient = as.factor(df$nutrient)
+df$time = as.factor(df$time)
 
 #tendencia geral
 dfstats<- df  %>%
-  group_by(peixe,nutriente,tempo) %>%
-  get_summary_stats(fito, type = "mean_sd")
+  group_by(snails,nutrient,time) %>%
+  get_summary_stats(peryphyton_growth, type = "mean_sd")
 dfstats
 
 #normalidade
 dfnorm <- df %>%
-  group_by(peixe,nutriente) %>%
-  shapiro_test(fito)
-dfnorm
+  group_by(snails,nutrient) %>%
+  shapiro_test(peryphyton_growth)
+dfnorms
+
+
