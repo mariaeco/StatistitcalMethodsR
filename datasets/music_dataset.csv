@@ -1,0 +1,101 @@
+id,music_style,music_genre,time,audio_mode,danceability,acousticness,music_rate,speachiness,review
+1,Rock,Punk Rock,6.54,Stereo,0.5,0.78,5.7,0,An absolute hit! Perfect for dancing.
+2,Electronic,Techno,3.2,Stereo,0.86,0.56,8.7,1,Great track with deep bass and smooth melody.
+3,Jazz,Vocal Jazz,2.72,Stereo,0.66,0.42,6,0,A bit too repetitive for my taste.
+4,Hip-Hop,Trap,4.45,Stereo,0.16,0.91,6,1,"Not my style, but well produced."
+5,Pop,Pop Rock,6.93,Stereo,0.07,0.11,8.9,1,"Catchy and energetic, but lacks depth."
+6,Pop,K-pop,3.21,Stereo,,0.49,4.6,0,"Overhyped, but decent overall."
+7,Pop,Pop Rock,5.36,Mono,0.03,0.01,2.2,1,A masterpiece with a blend of classic and modern elements.
+8,Classical,Opera,5.81,Stereo,0.59,0.47,1.3,1,
+9,Jazz,Bebop,3.19,Stereo,0.94,0.06,7.8,0,"Overhyped, but decent overall."
+10,Jazz,Smooth Jazz,5.64,Stereo,0.58,0.12,6.6,1,"Not my style, but well produced."
+11,Pop,Teen Pop,3.84,Stereo,0.39,0.12,7.3,0,"Catchy and energetic, but lacks depth."
+12,Electronic,Dubstep,5.16,Mono,0.64,0.65,2.9,1,"Not my style, but well produced."
+13,Classical,Baroque,5.17,Stereo,0.46,0.75,2.2,0,"Mellow and relaxing, ideal for studying."
+14,Rock,Punk Rock,4.68,Stereo,0.55,0.58,1.1,0,Great track with deep bass and smooth melody.
+15,Pop,Teen Pop,2.45,Stereo,0.94,0.96,4.2,1,A masterpiece with a blend of classic and modern elements.
+16,Pop,K-pop,6.18,Stereo,0.39,0.37,6.3,1,Beautiful instrumental work.
+17,Rock,Alternative Rock,3.6,Stereo,0.96,0.29,4.5,1,Great track with deep bass and smooth melody.
+18,Hip-Hop,Trap,2.93,Stereo,0.91,0.87,4.9,1,Beautiful instrumental work.
+19,Hip-Hop,Lo-fi Hip-Hop,2.2,Stereo,0.2,0.22,9.1,1,"Catchy and energetic, but lacks depth."
+20,Rock,Punk Rock,4.95,Stereo,0.07,0.96,4.1,0,A bit too repetitive for my taste.
+21,Jazz,Vocal Jazz,5.39,Stereo,0.1,0.01,5.6,1,"Unique sound, very experimental."
+22,Pop,Teen Pop,2.08,Stereo,0.02,0.97,8.1,0,An absolute hit! Perfect for dancing.
+23,Rock,Indie Rock,4.56,Stereo,0.09,0.04,4.6,0,Great track with deep bass and smooth melody.
+24,Rock,Alternative Rock,3.13,Mono,0.68,0.89,6.6,1,A masterpiece with a blend of classic and modern elements.
+25,Hip-Hop,Boom Bap,5.23,Stereo,0.07,0.53,8.8,0,"Not my style, but well produced."
+26,Classical,Romantic,2.87,Stereo,0.32,0.99,9.5,0,A masterpiece with a blend of classic and modern elements.
+27,Pop,K-pop,5.45,Stereo,0.84,0.07,2.3,0,"Catchy and energetic, but lacks depth."
+28,Hip-Hop,Boom Bap,3.93,Stereo,0.02,0.55,9.3,0,Beautiful instrumental work.
+29,Hip-Hop,Trap,6.68,Stereo,0.81,0.97,5.4,1,"Not my style, but well produced."
+30,Pop,K-pop,2.69,Stereo,0.28,0.52,3.3,0,An absolute hit! Perfect for dancing.
+31,Jazz,Bebop,3.71,Stereo,0.12,0.63,5.1,1,An absolute hit! Perfect for dancing.
+32,Pop,Pop Rock,2.57,Stereo,0.7,0.7,9.8,1,Great track with deep bass and smooth melody.
+33,Pop,Pop Rock,6.62,Stereo,0.63,0.45,5.4,0,"Catchy and energetic, but lacks depth."
+34,Electronic,Techno,6.39,Stereo,0.88,0.63,4,1,A bit too repetitive for my taste.
+35,Electronic,Techno,3.29,Stereo,0.74,0.58,6.7,1,"Catchy and energetic, but lacks depth."
+36,Classical,Opera,5.3,Stereo,0.8,0.9,3.2,1,Beautiful instrumental work.
+37,Rock,Indie Rock,6.09,Stereo,0.28,0.05,1.7,0,A masterpiece with a blend of classic and modern elements.
+38,Pop,Synthpop,4.78,Stereo,0.18,0.28,2.2,1,An absolute hit! Perfect for dancing.
+39,Jazz,Vocal Jazz,4.65,Stereo,0.75,0.95,2.2,1,A masterpiece with a blend of classic and modern elements.
+40,Hip-Hop,Lo-fi Hip-Hop,3.21,Stereo,0.81,0.89,2.4,1,A masterpiece with a blend of classic and modern elements.
+41,Pop,Synthpop,2.47,Stereo,0.99,0.46,2.2,0,A masterpiece with a blend of classic and modern elements.
+42,Hip-Hop,Gangsta Rap,6.49,Stereo,0.41,0.62,6.8,1,An absolute hit! Perfect for dancing.
+43,Pop,Pop Rock,6.5,Stereo,0.37,0.28,2.6,0,"Overhyped, but decent overall."
+44,Electronic,House,5.17,Stereo,0.78,0.19,4.1,0,"Mellow and relaxing, ideal for studying."
+45,Rock,Punk Rock,3.7,Stereo,0.34,0.46,9.1,0,Beautiful instrumental work.
+46,Jazz,Bebop,3.75,Stereo,0.93,0.35,5.3,0,"Overhyped, but decent overall."
+47,Rock,Hard Rock,5.63,Stereo,0.86,0.58,7,0,Beautiful instrumental work.
+48,Hip-Hop,Trap,6.49,Stereo,0.43,0.08,2.6,0,"Not my style, but well produced."
+49,Hip-Hop,Trap,6.44,Stereo,0.75,0.97,2.7,1,"Catchy and energetic, but lacks depth."
+50,Pop,Teen Pop,5.9,Stereo,0.75,0.99,1.4,0,"Catchy and energetic, but lacks depth."
+51,Electronic,Trance,5.21,Stereo,0.1,0.7,2.5,1,"Unique sound, very experimental."
+52,Classical,Baroque,2.42,Stereo,0.9,0.54,3.5,1,"Catchy and energetic, but lacks depth."
+53,Electronic,Techno,2.81,Stereo,0.51,0.31,2.6,0,An absolute hit! Perfect for dancing.
+54,Classical,Baroque,6.49,Stereo,0.83,0.81,1.8,1,A bit too repetitive for my taste.
+55,Hip-Hop,Trap,5.03,Stereo,0.32,0.68,2.1,1,Great track with deep bass and smooth melody.
+56,Electronic,Dubstep,2.05,Mono,0.9,0.16,5.1,1,"Unique sound, very experimental."
+57,Pop,Teen Pop,2.51,Stereo,0.39,0.91,2.9,1,Great track with deep bass and smooth melody.
+58,Pop,Synthpop,5.32,Stereo,0.01,0.82,4.3,0,Beautiful instrumental work.
+59,Pop,Pop Rock,2.03,Stereo,0.91,0.95,5.5,1,Great track with deep bass and smooth melody.
+60,Rock,Punk Rock,2.8,Stereo,0.09,0.73,7.2,0,Great track with deep bass and smooth melody.
+61,Rock,Hard Rock,4.74,Stereo,0.32,0.61,1.4,1,"Unique sound, very experimental."
+62,Rock,Indie Rock,5.46,Stereo,0.95,0.42,8.2,1,"Not my style, but well produced."
+63,Classical,Baroque,5.26,Stereo,0.95,0.93,6.7,0,A masterpiece with a blend of classic and modern elements.
+64,Rock,Hard Rock,3.12,Mono,0.57,0.87,1.7,1,"Catchy and energetic, but lacks depth."
+65,Rock,Punk Rock,5.56,Stereo,0.63,0.05,8.9,1,"Catchy and energetic, but lacks depth."
+66,Hip-Hop,Boom Bap,3.19,Stereo,0.45,0.03,9.3,1,An absolute hit! Perfect for dancing.
+67,Pop,Pop Rock,3.63,Stereo,0.29,0.38,1.5,0,"Unique sound, very experimental."
+68,Classical,Opera,5.73,Stereo,0.33,0.81,3.5,1,An absolute hit! Perfect for dancing.
+69,Pop,Teen Pop,5.25,Stereo,0.67,0.99,8.3,0,A bit too repetitive for my taste.
+70,Electronic,Dubstep,6.25,Stereo,0.75,0.15,7.7,1,A bit too repetitive for my taste.
+71,Classical,Romantic,5.29,Stereo,0.79,0.59,2.7,0,An absolute hit! Perfect for dancing.
+72,Pop,Pop Rock,4.84,Stereo,0.79,0.38,2.9,0,"Unique sound, very experimental."
+73,Pop,Pop Rock,2.47,Stereo,0.09,0.97,4.3,1,An absolute hit! Perfect for dancing.
+74,Classical,Opera,3.84,Stereo,0.49,0.84,5.4,1,"Catchy and energetic, but lacks depth."
+75,Jazz,Smooth Jazz,3.33,Mono,0.06,0.84,6.6,0,"Overhyped, but decent overall."
+76,Jazz,Swing,3.22,Stereo,0.55,0.47,4.3,0,"Mellow and relaxing, ideal for studying."
+77,Classical,Baroque,6.87,Stereo,0.44,0.41,5.2,1,Great track with deep bass and smooth melody.
+78,Pop,Synthpop,3.97,Stereo,0.89,0.27,7.7,0,"Mellow and relaxing, ideal for studying."
+79,Rock,Hard Rock,6.46,Stereo,0.35,0.06,1.3,1,"Unique sound, very experimental."
+80,Pop,Synthpop,5.16,Stereo,0.12,0.86,3.3,1,"Mellow and relaxing, ideal for studying."
+81,Classical,Opera,5.97,Stereo,0.14,0.81,7.4,1,A bit too repetitive for my taste.
+82,Jazz,Swing,4.51,Stereo,0.76,1,9.1,1,Beautiful instrumental work.
+83,Rock,Indie Rock,4.88,Stereo,0.62,1,5.6,0,Great track with deep bass and smooth melody.
+84,Pop,Teen Pop,4.46,Stereo,0.1,0.56,5.8,1,A masterpiece with a blend of classic and modern elements.
+85,Rock,Indie Rock,2.98,Stereo,0.08,0.77,2,0,"Unique sound, very experimental."
+86,Rock,Punk Rock,5.61,Stereo,0.7,0.94,5,1,Great track with deep bass and smooth melody.
+87,Jazz,Smooth Jazz,3.4,Stereo,0.07,0.85,5.8,0,"Mellow and relaxing, ideal for studying."
+88,Jazz,Smooth Jazz,2.12,Stereo,0.82,0.25,3.2,1,A bit too repetitive for my taste.
+89,Classical,Baroque,5.23,Stereo,0.71,0.45,3.4,0,"Not my style, but well produced."
+90,Hip-Hop,Lo-fi Hip-Hop,2.89,Stereo,0.08,0.13,4.4,0,"Overhyped, but decent overall."
+91,Pop,K-pop,6.7,Stereo,0.08,0.95,1.2,1,A masterpiece with a blend of classic and modern elements.
+92,Jazz,Vocal Jazz,6.77,Stereo,0.99,0.61,3.9,1,"Overhyped, but decent overall."
+93,Classical,Baroque,6.57,Stereo,0.37,0.23,2.9,1,Great track with deep bass and smooth melody.
+94,Hip-Hop,Boom Bap,3.85,Stereo,0.37,0.67,3.9,1,A bit too repetitive for my taste.
+95,Classical,Romantic,2.08,Stereo,0.81,0.62,2.1,0,A bit too repetitive for my taste.
+96,Hip-Hop,Lo-fi Hip-Hop,6.64,Stereo,0.95,0.36,9,1,"Mellow and relaxing, ideal for studying."
+97,Hip-Hop,Boom Bap,4.14,Stereo,0.99,0.11,6.3,0,"Catchy and energetic, but lacks depth."
+98,Hip-Hop,Gangsta Rap,6.83,Stereo,0.75,0.67,7.1,0,"Mellow and relaxing, ideal for studying."
+99,Pop,K-pop,6.82,Stereo,0.38,0.52,8.1,1,"Catchy and energetic, but lacks depth."
+100,Pop,Pop Rock,6.27,Stereo,0.08,0.77,5.5,0,"Catchy and energetic, but lacks depth."
